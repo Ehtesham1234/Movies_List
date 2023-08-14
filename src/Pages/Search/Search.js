@@ -45,9 +45,9 @@ const Search=()=> {
     <ThemeProvider theme={darkTheme}>
         <div style={{display:"flex",margin:"15px 0"}}>
             <TextField
-                style={{ flex: 1 }}
+                style={{ flex: 1, }}
                 className="searchBox"
-                label="Search"
+                label="search"
                 variant="filled"
                 onChange={(e)=> setSearchText(e.target.value)}
             />
