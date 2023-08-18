@@ -43,7 +43,7 @@
 
 .ContentModal__title {
   height: 12%;
-  font-size: 3vw;
+  font-size: 6vw;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -84,7 +84,7 @@
     height: 100%;
   }
   .ContentModal__title {
-    font-size: 2.5vw;
+    font-size: 2.6vw;
   }
   .ContentModal__description {
     font-size: 22px;
